@@ -1,0 +1,40 @@
+# Blender MTL File: 'M3.blend'
+# Material Count: 3
+
+newmtl ge
+Ns 28.763246
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump  img\\Texture_FCL1-PSD003-001_Stretch Denim_BLANK_NORMAL.png
+map_Kd img\\FCL1-PSD003-01.png
+
+newmtl hou
+Ns 28.763246
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump img\\FCL1-PSD001-01_NORMAL.jpg
+map_Kd img\\FCL1-PSD001-01_DIFFUSE.jpg
+
+
+
+newmtl qian
+Ns 28.763246
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump  img\\no.png 
+map_Kd  img\\1.png 
